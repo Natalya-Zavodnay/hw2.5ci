@@ -1,4 +1,4 @@
-# Cчетчики Jococo
+# Counters Jococo
 
 ## INSTRUCTION
 
